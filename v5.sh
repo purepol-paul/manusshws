@@ -1,4 +1,4 @@
-# Encrypted by MANUTECH254
+# Encrypted by PUREPOL
 # Github- https://github.com/fuckyouwhydoyouwanttoclone
 
 z="
